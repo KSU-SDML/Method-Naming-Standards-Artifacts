@@ -18,3 +18,7 @@ Each of the approch paper authors was assigned a spreadsheet that contains the 3
 10. Length
 
 In addition, a column contains the source-code file path of the method name-- for the evaluator’s reference. Each evaluator is asked to check each name for adherence to the standard, and for each method name, the evaluator marks any violated standards. For example, if a method name does not contain a verb, the evaluator marks the verb phrase standard as a violation for that name (TRUE) if it does contain a verb, then it means (FALSE) in the provided sheet. 
+
+You can find a direct link to the approach here:
+
+https://github.com/KSU-SDML/Jawdah
