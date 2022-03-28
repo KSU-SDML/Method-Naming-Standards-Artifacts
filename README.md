@@ -1,7 +1,7 @@
 # Overview
 
 This repository contains a spreadsheet of a golden set that has been created for evaluating a method naming standards approach.
-The golden set created using Notepad++ with a total of 354 method names.
+The golden set is created using Notepad++ with a total of 354 method names.
 
 # Golden Set Evaluation
 
